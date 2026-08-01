@@ -1,5 +1,5 @@
 # Microscope-Project.26-27
-The goal of this project is to design a low-cost digital microscope ($30-40) able to be constructed in classrooms with limited resources. The first prototypes are being developed in partnership with Bududa Secondary School in Uganda.
+The goal of this project is to design a low-cost digital microscope ($30-40) able to be constructed in classrooms with limited resources. The first prototypes are being developed in partnership with Hawthorne-Scribner High School in Uganda.
 
 ## Current Features
   - Project documentation
